@@ -1,8 +1,8 @@
 package com.example.users.domain.useCase;
 
 import com.example.users.domain.model.Role;
-import com.example.users.domain.repository.RolePersistentPort;
-import com.example.users.domain.service.RoleServicePort;
+import com.example.users.domain.repositoryPort.RolePersistentPort;
+import com.example.users.domain.servicePort.RoleServicePort;
 import lombok.RequiredArgsConstructor;
 
 import java.util.List;

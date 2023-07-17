@@ -1,7 +1,7 @@
 package com.example.users.infrastructure.persistence.adapter;
 
 import com.example.users.domain.model.Role;
-import com.example.users.domain.repository.RolePersistentPort;
+import com.example.users.domain.repositoryPort.RolePersistentPort;
 import com.example.users.infrastructure.mapper.MapperRoleEntity;
 import com.example.users.infrastructure.persistence.repository.RoleRepository;
 import lombok.RequiredArgsConstructor;

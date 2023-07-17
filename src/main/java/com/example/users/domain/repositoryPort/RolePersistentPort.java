@@ -1,4 +1,4 @@
-package com.example.users.domain.repository;
+package com.example.users.domain.repositoryPort;
 
 import com.example.users.domain.comun.CrudBase;
 import com.example.users.domain.model.Role;

@@ -1,7 +1,7 @@
 package com.example.users.infrastructure.handler;
 
 import com.example.users.domain.comun.CrudBase;
-import com.example.users.domain.service.RoleServicePort;
+import com.example.users.domain.servicePort.RoleServicePort;
 import com.example.users.infrastructure.dto.RoleDTO;
 import com.example.users.infrastructure.mapper.MapperRoleDTO;
 import lombok.RequiredArgsConstructor;
